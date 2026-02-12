@@ -26,4 +26,6 @@ TF-IDF Vectorizer – text to numbers
 
 Logistic Regression / Naive Bayes – classifier
 
+Thank You!
+
 
